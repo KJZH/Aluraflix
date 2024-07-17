@@ -1,0 +1,87 @@
+{ "data" : [
+    {
+        "id": 1,
+        "titulo": "Equipo Front End #AluraMás",
+        "categoria": "FRONT END",
+        "imagen": "./img/image 7.png",
+        "video": {
+            "src": "https://www.youtube.com/embed/rpvrLaBQwgg",
+            "title": "Equipo Front End #AluraMás",
+            "frameborder": "0",
+            "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+            "referrerpolicy": "strict-origin-when-cross-origin"
+        },
+        "descripcion": "En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End."
+    },
+    {
+        "id": 2,
+        "titulo": "¿Qué es JavaScript?",
+        "categoria": "FRONT END",
+        "imagen": "./img/image 6.png",
+        "video": {
+            "src": "https://www.youtube.com/embed/GJfOSoaXk4s",
+            "title": "¿Qué es JavaScript?",
+            "frameborder": "0",
+            "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+            "referrerpolicy": "strict-origin-when-cross-origin"
+        },
+        "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips."
+    },
+    {
+        "id": 3,
+        "titulo": "¿Qué es SQL y NoSQL?",
+        "categoria": "BACK END",
+        "imagen": "./img/image 8.png",
+        "video": {
+            "src": "https://www.youtube.com/embed/cLLKVd5CNLc",
+            "title": "¿Qué es SQL y NoSQL?",
+            "frameborder": "0",
+            "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+            "referrerpolicy": "strict-origin-when-cross-origin"
+        },
+        "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo."
+    },
+    {
+        "id": 4,
+        "titulo": "Spring Framework. ¿Qué es ? #AluraMás",
+        "categoria": "BACK END",
+        "imagen": "./img/image 9.png",
+        "video": {
+            "src": "https://www.youtube.com/embed/t-iqt1b2qqk",
+            "title": "Spring Framework. ¿Qué es ? #AluraMás",
+            "frameborder": "0",
+            "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+            "referrerpolicy": "strict-origin-when-cross-origin"
+        },
+        "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo."
+    },
+    {
+        "id": 5,
+        "titulo": "¿Qué son las Soft Skills?",
+        "categoria": "INNOVACIÓN Y GESTIÓN",
+        "imagen": "./img/image 10.png",
+        "video": {
+            "src": "https://www.youtube.com/embed/vhwspfvI52k",
+            "title": "¿Qué son las Soft Skills?",
+            "frameborder": "0",
+            "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+            "referrerpolicy": "strict-origin-when-cross-origin"
+        },
+        "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
+    },
+    {
+        "id": 6,
+        "titulo": "¿Qué son las metodologias ágiles?",
+        "categoria": "INNOVACIÓN Y GESTIÓN",
+        "imagen": "./img/image 11.png",
+        "video": {
+            "src": "https://www.youtube.com/embed/6N3OkLCfK-0",
+            "title": "¿Qué son las metodologias ágiles?",
+            "frameborder": "0",
+            "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+            "referrerpolicy": "strict-origin-when-cross-origin"
+        },
+        "descripcion": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa."
+    }
+]
+}

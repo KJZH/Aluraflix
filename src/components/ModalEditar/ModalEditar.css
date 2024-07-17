@@ -1,0 +1,39 @@
+.modal-editar{
+    display: flex;
+    color: #2271d1;
+    width: 80%;
+    background-color: transparent;
+    border: none;
+}
+
+.modal-editar form{
+    width: 100%;
+    max-width: 100%;
+    max-height: 1140px;
+    background-color: #03122f;
+    border-radius: 7px;
+    box-shadow: 2px 2px 6px;
+    padding: 20px;
+}
+
+.modal-editar .close-button {
+    background-color: transparent;
+    border: none;
+    float: right;
+}
+
+.modal-editar .close-button:hover {
+    cursor: pointer;
+}
+
+.modal-editar h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.modal-editar form section{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+}

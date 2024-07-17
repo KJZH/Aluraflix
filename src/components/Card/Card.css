@@ -1,0 +1,20 @@
+.card img{
+    padding: 20px;
+}
+
+.card iframe {
+    border-width: 4px;
+    border-color: rgb(0, 200, 111);
+    border-radius: 18px 18px 0px 0px;
+    box-shadow: rgb(0, 200, 111) 0px -4px 7px inset;
+}
+
+.card section{
+    display: flex;
+    justify-content: space-evenly;
+    /* background-color: #03122f; */
+    border-color: 5px #6bd1ff;
+    border-radius: 0px 0px 18px 18px;
+    margin-top: -5.9px;
+    /* box-shadow: inset #6bd1ff 0px -4px 7px 0px; */
+}

@@ -1,0 +1,42 @@
+.new-video{
+    display: flex;
+    /* justify-content: center; */
+    color: #2271d1;
+}
+
+.new-video form{
+    width: 100%;
+    background-color: #191919;
+    
+    box-shadow: inset 0px 5px 8px -4px;
+    padding: 20px;
+}
+
+.new-video h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.new-video input{
+    background-color: transparent;
+    width: 45%;
+    border: 2px solid #454545;
+}
+
+.new-video textarea{
+    background-color: transparent;
+    width: 45%;
+    border: 2px solid #454545;
+}
+
+.new-video select{
+    background-color: transparent;
+    width: 45%;
+    border: 2px solid #454545;
+}
+
+.new-video section{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}

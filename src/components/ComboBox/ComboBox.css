@@ -1,0 +1,25 @@
+.combo-box {
+    width: 96%;
+    max-width: 96%;
+}
+
+.combo-box label{
+    width: 67%;
+    color: #ffffff;
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+    margin-bottom: 8px;
+    font-size: 12px;
+    font-weight: 700;
+    display: block;
+}
+
+.combo-box select{
+    width: 97%;
+    color: #a5a5a5;
+    background-color: #03122f;
+    border: 2px solid #2271d1;
+    border-radius: 8px;
+    padding: 10px 5px;
+    outline-color: #6bd1ff;
+}

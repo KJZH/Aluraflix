@@ -1,0 +1,25 @@
+.videos-group{
+    width: 100%;
+    color: white;
+    padding: 32px;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.videosgroup h3{
+    width: 220px;
+    max-width: 220px;
+    color: white;   
+    border-radius: 8px;
+    padding: 4px 0px;
+    display: flex;
+    justify-content: center;
+    box-shadow: inset 0px 0px 6px;
+    cursor: pointer;
+}
+
+.video-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
